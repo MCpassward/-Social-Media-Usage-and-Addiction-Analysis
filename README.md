@@ -33,7 +33,7 @@ This project explores how different factors like time spent, platform used, and 
 - Productivity apps to monitor daily usage
 
 ## 📁 Folder Structure
-- `/data`: Raw and cleaned data
+- `/data1&2`: Raw and cleaned data
 - `/colab_notebook`: Google Colab .ipynb files
 - `/Powerbi`: Dashboard file (.pbix)
 - `/visuals`: Screenshots from Power BI
