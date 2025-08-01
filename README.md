@@ -1,4 +1,5 @@
-**[shourjyesh-bose-asset](https://github.com/user-attachments/assets/1967e089-a0f2-4641-a231-ff9fd4992bf5)**
+**[![shourjyesh-bose-asset](https://github.com/user-attachments/assets/0a2139b8-1686-4bca-8f57-efd2257453d6)
+]()**
 # Social Media Addiction Analysis
 
 ## 📌 Project Overview
