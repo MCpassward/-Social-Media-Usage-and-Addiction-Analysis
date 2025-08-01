@@ -56,9 +56,10 @@ This project explores how different factors like time spent, platform used, and 
 ## ✅ Key Results
 - Top predictors:
 
-.Time Spent On Video 
-.Scroll Rate 
- .Self Control 
+
+  .Time Spent On Video 
+  .Scroll Rate 
+  .Self Control 
 - Dashboard visualizations highlight addictive patterns by platform and demographic
 
 ## 💡 Recommendations
