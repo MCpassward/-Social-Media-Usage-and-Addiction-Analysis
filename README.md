@@ -4,7 +4,7 @@
 This project explores how different factors like time spent, platform used, and user satisfaction contribute to social media addiction. Using a public dataset and big data techniques, we aim to analyze behavior and build a model to predict addiction levels.
 
 ## 📊 Dataset
-- Source: [https://github.com/haneesha-thasni/Time-wasters-on-social-media-Analysis/blob/main/Time-Wasters%20on%20Social%20Media.csv]
+- Source: [Here](https://github.com/haneesha-thasni/Time-wasters-on-social-media-Analysis/blob/main/Time-Wasters%20on%20Social%20Media.csv)
 - Features: Age, Gender, Platform usage, Time spent, Satisfaction, Addiction Level, etc.
 
 ## 🛠️ Tools Used
