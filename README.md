@@ -56,6 +56,18 @@ This project explores how different factors like time spent, platform used, and 
 ## 📷 Images/Screenshots
 
 **<img width="1087" height="698" alt="1" src="https://github.com/user-attachments/assets/de7e83c8-a633-422b-9a7d-23484ccef849" />**
+**<img width="1078" height="684" alt="2" src="https://github.com/user-attachments/assets/99b49bdf-7f6c-4635-b046-325f4171062b" />**
+**<img width="1059" height="696" alt="3" src="https://github.com/user-attachments/assets/74f88925-85d1-49c0-a1aa-e40a19aab6b6" />**
+**<img width="1059" height="692" alt="4" src="https://github.com/user-attachments/assets/d219ec87-4b91-402a-afae-b1b785b80f4b" />**
+**<img width="1077" height="687" alt="5" src="https://github.com/user-attachments/assets/e89a9327-ef29-4196-8bec-82098755af9c" />**
+**<img width="1061" height="686" alt="6" src="https://github.com/user-attachments/assets/c0ab8ea1-1af3-4387-8653-62a6fb7fe1fb" />**
+**<img width="647" height="602" alt="7" src="https://github.com/user-attachments/assets/8529004f-3810-4158-8534-1e8cfa7f9833" />**
+**<img width="1226" height="719" alt="8" src="https://github.com/user-attachments/assets/a63c939a-a443-45ba-99d2-76cc5588fbb3" />**
+**<img width="900" height="569" alt="9" src="https://github.com/user-attachments/assets/7a660e50-af76-491b-8ba0-dcb8617baff4" />**
+**<img width="404" height="435" alt="10" src="https://github.com/user-attachments/assets/1edd3c53-88b6-4174-8eec-49bd973d9f8a" />**
+## power BI dashboard Image/screenshot
+
+**<img width="1920" height="1036" alt="all" src="https://github.com/user-attachments/assets/9cb81210-6b9b-4b82-800c-ec54e6001ef6" />**
 
 ## ✅ Key Results
 - Top predictors:
