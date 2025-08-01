@@ -19,7 +19,7 @@ This project explores how different factors like time spent, platform used, and 
 - Created interactive Power BI dashboard with trends and correlations
 
 ## ✅ Key Results
-- Model Accuracy: **[e.g., 85%]**
+- Model Accuracy: **0.8734**
 - Top predictors: **Time Spent**, **Satisfaction**, **Scroll Rate**
 - Dashboard visualizations highlight addictive patterns by platform and demographic
 
