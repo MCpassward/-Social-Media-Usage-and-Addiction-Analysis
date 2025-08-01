@@ -53,6 +53,10 @@ This project explores how different factors like time spent, platform used, and 
 - Identified key features that influence addiction
 - Created interactive Power BI dashboard with trends and correlations
 
+## 📷 Images/Screenshots
+
+
+
 ## ✅ Key Results
 - Top predictors:
 
