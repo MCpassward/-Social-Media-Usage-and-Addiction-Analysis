@@ -1,3 +1,5 @@
+![Uploading Capture.PNG…]()
+
 # Social Media Addiction Analysis
 
 ## 📌 Project Overview
