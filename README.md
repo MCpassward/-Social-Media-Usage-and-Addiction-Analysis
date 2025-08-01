@@ -55,7 +55,7 @@ This project explores how different factors like time spent, platform used, and 
 
 ## 📷 Images/Screenshots
 
-
+** <img width="1087" height="698" alt="1" src="https://github.com/user-attachments/assets/de7e83c8-a633-422b-9a7d-23484ccef849" /> **
 
 ## ✅ Key Results
 - Top predictors:
