@@ -1,4 +1,4 @@
-![Uploading Capture.PNG…]()
+**[<img width="388" height="547" alt="Capture" src="https://github.com/user-attachments/assets/e33d59f9-feab-4578-b48a-9382427777fa" />]()**
 
 # Social Media Addiction Analysis
 
