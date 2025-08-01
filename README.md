@@ -20,15 +20,7 @@ This project explores how different factors like time spent, platform used, and 
 
 ## ✅ Key Results
 - Model Accuracy: **0.8734**
-- Top predictors: Time Spent On Video
-
-Scroll Rate
-
-Self Control
-
-Addiction Level
-
-Satisfaction
+- Top predictors: Time Spent On Video,Scroll Rate,Self Control,Addiction Level,Satisfaction
 - Dashboard visualizations highlight addictive patterns by platform and demographic
 
 ## 💡 Recommendations
