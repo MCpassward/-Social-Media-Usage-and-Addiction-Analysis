@@ -54,7 +54,10 @@ This project explores how different factors like time spent, platform used, and 
 - Created interactive Power BI dashboard with trends and correlations
 
 ## ✅ Key Results
-- Top predictors:Time Spent On Video, Scroll Rate, Self Control
+- Top predictors:
+  .Time Spent On Video
+  .Scroll Rate
+  .Self Control
 - Dashboard visualizations highlight addictive patterns by platform and demographic
 
 ## 💡 Recommendations
