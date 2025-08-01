@@ -7,7 +7,37 @@ This project explores how different factors like time spent, platform used, and 
 
 ## 📊 Dataset
 - Source: [Here](https://github.com/haneesha-thasni/Time-wasters-on-social-media-Analysis/blob/main/Time-Wasters%20on%20Social%20Media.csv)
-- Features: Age, Gender, Platform usage, Time spent, Satisfaction, Addiction Level, etc.
+- ## 🧬 Features Used in the Dataset
+
+| Feature                      | Description                                                 |
+| ---------------------------- | ----------------------------------------------------------- |
+| **Age**                      | Respondent's age in years                                   |
+| **Gender**                   | Gender identity (e.g., Male, Female)                        |
+| **Location**                 | Geographic location of the respondent                       |
+| **Income**                   | Monthly or annual income bracket                            |
+| **Owns Property**            | Whether the respondent owns property (Yes/No)               |
+| **Profession**               | Current job or occupation                                   |
+| **Platform**                 | Primary social media platform used (Facebook, TikTok, etc.) |
+| **Total Time Spent**         | Total time spent on social media in a day                   |
+| **Number of Sessions**       | Number of times the app/platform was opened per day         |
+| **Engagement**               | User interaction level (likes, comments, shares, etc.)      |
+| **Importance Score**         | Subjective importance the user places on social media       |
+| **Time Spent On Video**      | Total minutes spent watching videos                         |
+| **Number of Videos Watched** | Count of videos watched per day/session                     |
+| **Scroll Rate**              | Speed or frequency of scrolling through content             |
+| **Frequency**                | How often the user accesses social media per day/week       |
+| **Productivity Loss**        | Estimated impact on daily productivity                      |
+| **Satisfaction**             | How satisfied the user feels after usage                    |
+| **Watch Reason**             | Main reason for watching (e.g., entertainment, education)   |
+| **Device Type**              | Device used to access social media (Phone, Tablet, etc.)    |
+| **OS**                       | Operating System (e.g., Android, iOS)                       |
+| **Watch Time**               | Daily watch time in hours/minutes                           |
+| **Self Control**             | User's self-reported control over limiting usage            |
+| **Current Activity**         | What the user was doing when using social media             |
+| **Connection Type**          | Internet connection type (Wi-Fi, Mobile Data)               |
+| **Age Group**                | Age bucket (e.g., Teen, Adult, Senior)                      |
+| **Actual**                   | Actual addiction classification (e.g., Low, Moderate, High) |
+| **Predicted**                | Model's predicted addiction level                           |
 
 ## 🛠️ Tools Used
 -  Python
