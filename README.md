@@ -30,8 +30,8 @@ This project explores how different factors like time spent, platform used, and 
 
 ## 📁 Folder Structure
 - `/data`: Raw and cleaned data
-- `/colab_notebooks`: Google Colab .ipynb files
-- `/powerbi`: Dashboard file (.pbix)
+- `/colab_notebook`: Google Colab .ipynb files
+- `/Powerbi`: Dashboard file (.pbix)
 - `/visuals`: Screenshots from Power BI
 - `/reports`: PowerPoint summary slides
 
