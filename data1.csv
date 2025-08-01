@@ -1,0 +1,201 @@
+Age,Gender,Location,Income,Owns Property,Profession,Platform,Total Time Spent,Number of Sessions,Engagement,Importance Score,Time Spent On Video,Number of Videos Watched,Scroll Rate,Frequency,Productivity Loss,Satisfaction,Watch Reason,Device Type,OS,Watch Time,Self Control,Current Activity,Connection Type,Age Group,Actual,Predicted
+56,Female,India,90202,False,Waiting staff,Instagram,13,2,9393,4,7,40,67,Night,3,7,Entertainment,Smartphone,iOS,,5,At home,Wi-Fi,50+,5,5
+51,Other,Pakistan,20159,False,Students,YouTube,130,8,3342,2,12,3,96,Night,8,2,Boredom,Smartphone,Windows,,10,At home,Mobile Data,50+,0,0
+39,Male,Germany,83115,False,Engineer,Instagram,240,11,1454,9,4,13,59,Night,3,7,Procrastination,Tablet,Android,,5,At school,Mobile Data,36-50,5,5
+38,Male,Japan,52441,True,Students,YouTube,88,2,4103,5,29,34,1,Evening,8,2,Entertainment,Smartphone,MacOS,,10,At work,Wi-Fi,36-50,0,0
+52,Male,Japan,84047,False,Waiting staff,Instagram,123,11,3759,5,2,15,82,Night,2,8,Boredom,Tablet,iOS,,4,At school,Wi-Fi,50+,6,6
+56,Male,India,46201,False,Students,TikTok,247,5,7207,9,22,20,63,Morning,8,2,Habit,Smartphone,Android,,10,At school,Wi-Fi,50+,0,0
+25,Male,Philippines,40074,False,Artist,Instagram,189,10,3465,2,27,30,12,Afternoon,5,5,Procrastination,Tablet,Android,,7,At home,Mobile Data,18-25,3,3
+46,Female,Mexico,27999,True,Artist,Instagram,228,14,5944,6,25,31,46,Afternoon,5,5,Habit,Computer,Android,,7,At school,Wi-Fi,36-50,3,3
+34,Male,Vietnam,57713,True,Manager,YouTube,78,9,1620,2,29,38,23,Evening,3,7,Entertainment,Tablet,iOS,,5,At work,Mobile Data,26-35,5,5
+18,Female,Pakistan,83671,False,Students,TikTok,225,4,8708,8,4,15,96,Afternoon,6,4,Habit,Computer,MacOS,,8,At home,Mobile Data,<18,2,2
+37,Female,Germany,96975,True,driver,TikTok,248,11,1308,2,10,21,68,Night,3,7,Habit,Smartphone,iOS,,5,At home,Wi-Fi,36-50,5,5
+37,Male,United States,97988,True,Engineer,TikTok,288,10,6324,1,17,7,96,Evening,5,5,Habit,Smartphone,Windows,,7,At school,Wi-Fi,36-50,3,3
+53,Other,Japan,73161,False,Teacher,Facebook,181,1,8367,1,11,20,5,Morning,7,3,Boredom,Smartphone,Windows,,9,At school,Mobile Data,50+,1,1
+55,Female,Pakistan,95948,False,Teacher,YouTube,267,11,771,4,13,27,22,Night,3,7,Entertainment,Computer,MacOS,,5,At work,Mobile Data,50+,5,5
+63,Female,Mexico,88026,False,Labor/Worker,YouTube,129,8,3280,8,29,24,63,Night,1,9,Procrastination,Tablet,iOS,,3,At home,Wi-Fi,50+,7,7
+61,Male,United States,79500,True,Students,TikTok,207,17,9692,9,18,1,53,Night,1,9,Habit,Smartphone,Android,,3,At home,Mobile Data,50+,7,7
+51,Female,Japan,54542,False,driver,YouTube,189,8,8463,2,5,31,8,Evening,7,3,Entertainment,Smartphone,iOS,,9,Commuting,Wi-Fi,50+,1,1
+48,Male,Philippines,57346,False,Engineer,YouTube,172,1,7292,2,16,49,33,Evening,6,4,Boredom,Smartphone,Windows,,8,Commuting,Wi-Fi,36-50,2,2
+39,Other,Japan,77828,False,Students,Facebook,61,1,8400,8,6,17,13,Night,3,7,Boredom,Smartphone,Windows,,5,At work,Mobile Data,36-50,5,5
+39,Male,Japan,43252,True,Students,YouTube,246,14,7546,1,22,44,61,Evening,6,4,Habit,Smartphone,Android,,8,Commuting,Mobile Data,36-50,2,2
+23,Male,Mexico,48933,True,Engineer,YouTube,62,11,7630,7,22,24,60,Morning,8,2,Boredom,Tablet,Android,,10,At school,Mobile Data,18-25,0,0
+23,Male,Pakistan,39595,True,Students,Instagram,278,1,5056,5,28,26,50,Night,1,9,Habit,Smartphone,Android,,3,At home,Mobile Data,18-25,7,7
+40,Female,India,57437,True,Students,TikTok,41,6,6361,2,19,34,53,Morning,9,1,Boredom,Tablet,Windows,,10,At home,Mobile Data,36-50,0,0
+54,Female,United States,70952,True,Waiting staff,Facebook,216,11,356,1,9,29,9,Afternoon,5,5,Habit,Smartphone,MacOS,,7,At work,Wi-Fi,50+,3,3
+52,Other,United States,86321,True,Cashier,TikTok,180,5,1149,3,18,20,77,Night,1,9,Entertainment,Tablet,Windows,,3,At work,Mobile Data,50+,7,7
+45,Other,United States,37569,False,driver,Facebook,34,16,6574,9,6,5,18,Evening,6,4,Boredom,Smartphone,Android,,8,At home,Wi-Fi,36-50,2,2
+48,Male,Mexico,92702,False,Students,Facebook,115,2,1088,5,5,11,81,Night,1,9,Habit,Tablet,Android,,3,At work,Mobile Data,36-50,7,7
+27,Other,United States,27461,True,Artist,TikTok,155,8,8890,8,4,29,68,Afternoon,6,4,Habit,Smartphone,iOS,,8,At home,Mobile Data,26-35,2,2
+30,Female,United States,41826,True,Labor/Worker,Instagram,140,15,4107,2,12,22,1,Evening,5,5,Habit,Smartphone,Android,,7,At home,Mobile Data,26-35,3,3
+54,Male,India,49033,False,driver,Facebook,96,4,5008,4,23,1,27,Evening,6,4,Boredom,Smartphone,MacOS,,8,At work,Mobile Data,50+,2,2
+51,Female,India,31590,False,Waiting staff,Instagram,51,14,3007,1,5,8,76,Night,1,9,Entertainment,Smartphone,Android,,3,At home,Mobile Data,50+,7,7
+43,Female,Brazil,53870,True,Students,Instagram,150,14,5004,2,11,48,5,Night,6,4,Boredom,Smartphone,iOS,,8,At school,Wi-Fi,36-50,2,2
+18,Male,Pakistan,53154,True,Manager,Facebook,11,8,8792,9,16,28,14,Afternoon,6,4,Entertainment,Computer,iOS,,8,At school,Mobile Data,<18,2,2
+42,Female,Vietnam,31120,True,Waiting staff,Facebook,41,13,7879,4,25,7,27,Night,3,7,Habit,Smartphone,Android,,5,At work,Wi-Fi,36-50,5,5
+25,Male,Japan,63355,True,Manager,Instagram,230,4,5229,7,7,18,32,Night,3,7,Procrastination,Smartphone,Android,,5,At work,Mobile Data,18-25,5,5
+19,Female,Philippines,21283,False,driver,Facebook,129,11,3909,4,4,46,56,Morning,8,2,Habit,Computer,MacOS,,10,At home,Mobile Data,18-25,0,0
+20,Male,United States,37015,True,Labor/Worker,TikTok,127,17,8771,8,5,48,47,Night,3,7,Entertainment,Tablet,Android,,5,At home,Mobile Data,18-25,5,5
+45,Male,United States,94971,False,Students,Facebook,207,8,7663,7,29,38,87,Afternoon,5,5,Habit,Smartphone,Android,,7,At home,Mobile Data,36-50,3,3
+54,Other,Brazil,83870,False,Labor/Worker,TikTok,97,15,908,5,29,19,98,Night,3,7,Habit,Tablet,iOS,,5,At home,Mobile Data,50+,5,5
+62,Female,United States,43481,False,Students,Facebook,19,10,4364,4,8,22,89,Night,3,7,Boredom,Smartphone,MacOS,,5,At work,Mobile Data,50+,5,5
+43,Male,India,32180,False,Labor/Worker,TikTok,195,8,8097,3,18,34,77,Morning,8,2,Boredom,Tablet,Android,,10,At home,Mobile Data,36-50,0,0
+27,Male,Philippines,83922,True,Labor/Worker,TikTok,179,4,6255,1,10,3,93,Afternoon,4,6,Entertainment,Smartphone,Android,,6,At home,Mobile Data,26-35,4,4
+49,Male,Pakistan,45150,True,Waiting staff,TikTok,48,4,918,6,28,35,94,Evening,6,4,Habit,Smartphone,Android,,8,At home,Mobile Data,36-50,2,2
+50,Male,Brazil,66403,False,Students,Instagram,46,7,6057,2,1,12,12,Evening,6,4,Boredom,Computer,Android,,8,Commuting,Mobile Data,36-50,2,2
+33,Male,India,20162,True,Labor/Worker,Instagram,96,4,3749,9,15,22,55,Night,3,7,Boredom,Tablet,iOS,,5,Commuting,Mobile Data,26-35,5,5
+54,Male,United States,34939,True,driver,Facebook,187,8,8667,1,2,1,7,Evening,6,4,Habit,Smartphone,Android,,8,At home,Mobile Data,50+,2,2
+31,Female,United States,54773,True,Cashier,Instagram,21,8,279,4,9,39,94,Night,8,2,Boredom,Computer,Android,,10,Commuting,Wi-Fi,26-35,0,0
+35,Male,India,22336,True,Waiting staff,Facebook,85,19,5733,9,11,28,14,Afternoon,5,5,Boredom,Smartphone,Android,,7,At work,Mobile Data,26-35,3,3
+43,Male,Philippines,25463,False,Students,TikTok,280,7,7485,3,6,37,99,Night,3,7,Entertainment,Tablet,Android,,5,At work,Wi-Fi,36-50,5,5
+59,Female,Pakistan,26581,True,Students,Facebook,168,5,4883,2,14,23,66,Night,3,7,Habit,Tablet,Android,,5,At school,Wi-Fi,50+,5,5
+43,Male,India,30516,False,Waiting staff,Instagram,18,19,4971,7,13,29,57,Morning,9,1,Boredom,Smartphone,iOS,,10,At home,Mobile Data,36-50,0,0
+42,Female,United States,60197,False,driver,TikTok,134,13,7896,4,26,10,46,Afternoon,5,5,Boredom,Smartphone,iOS,,7,At work,Mobile Data,36-50,3,3
+32,Female,Germany,48454,True,Cashier,Instagram,20,10,7379,2,4,38,76,Afternoon,3,7,Entertainment,Smartphone,MacOS,,5,At school,Mobile Data,26-35,5,5
+60,Other,Vietnam,69879,False,Teacher,TikTok,102,1,6762,6,22,31,30,Night,3,7,Boredom,Smartphone,Android,,5,At school,Wi-Fi,50+,5,5
+37,Male,Philippines,92954,True,Waiting staff,TikTok,269,16,4916,1,12,8,73,Evening,6,4,Entertainment,Smartphone,Android,,8,At home,Mobile Data,36-50,2,2
+40,Male,United States,49309,False,Waiting staff,Instagram,34,2,9394,8,20,44,19,Night,3,7,Entertainment,Computer,Android,,5,At home,Mobile Data,36-50,5,5
+19,Other,India,49320,False,Waiting staff,TikTok,281,18,6055,3,15,6,10,Night,3,7,Entertainment,Smartphone,iOS,,5,At work,Wi-Fi,18-25,5,5
+41,Female,Indonesia,96917,False,Engineer,TikTok,82,19,8412,3,10,3,30,Night,2,8,Entertainment,Tablet,Android,,4,At home,Mobile Data,36-50,6,6
+31,Male,Indonesia,58342,False,Waiting staff,YouTube,20,15,5962,7,7,18,31,Evening,6,4,Entertainment,Computer,Android,,8,At home,Wi-Fi,26-35,2,2
+20,Male,Vietnam,58975,True,Students,Instagram,115,16,6174,4,3,35,3,Evening,5,5,Boredom,Smartphone,Android,,7,At work,Mobile Data,18-25,3,3
+44,Female,India,45235,True,Students,Facebook,34,12,3770,4,12,17,41,Afternoon,6,4,Boredom,Smartphone,iOS,,8,At home,Mobile Data,36-50,2,2
+46,Female,India,91274,False,Waiting staff,TikTok,13,13,2940,3,8,44,97,Morning,3,7,Boredom,Tablet,Android,,5,At home,Mobile Data,36-50,5,5
+63,Female,Brazil,70139,True,Labor/Worker,YouTube,244,15,354,1,10,26,2,Evening,6,4,Boredom,Smartphone,MacOS,,8,At school,Mobile Data,50+,2,2
+57,Female,Germany,27368,True,Labor/Worker,Instagram,93,10,4802,5,10,19,27,Afternoon,5,5,Habit,Tablet,iOS,,7,At home,Wi-Fi,50+,3,3
+29,Other,Germany,66092,True,Students,Facebook,108,1,9597,8,23,41,74,Evening,3,7,Habit,Smartphone,iOS,,5,At home,Mobile Data,26-35,5,5
+36,Female,Vietnam,51337,False,Artist,Instagram,25,19,3909,3,9,33,86,Evening,6,4,Habit,Smartphone,Android,,8,At work,Mobile Data,36-50,2,2
+49,Other,Mexico,52402,True,Students,Facebook,99,2,5409,7,5,35,52,Evening,3,7,Habit,Computer,iOS,,5,At work,Mobile Data,36-50,5,5
+50,Female,Germany,42010,True,Students,YouTube,173,8,6575,9,1,1,73,Afternoon,5,5,Habit,Smartphone,Android,,7,Commuting,Wi-Fi,36-50,3,3
+24,Male,Brazil,52591,True,Cashier,YouTube,51,8,4878,6,11,15,71,Night,3,7,Habit,Smartphone,Android,,5,At home,Mobile Data,18-25,5,5
+19,Male,India,53840,True,driver,YouTube,167,17,9790,3,19,40,6,Evening,6,4,Procrastination,Smartphone,Android,,8,At home,Mobile Data,18-25,2,2
+30,Male,Indonesia,80614,False,Labor/Worker,YouTube,215,15,9815,5,23,47,71,Evening,6,4,Boredom,Tablet,Android,,8,At work,Wi-Fi,26-35,2,2
+55,Male,India,30449,True,Labor/Worker,YouTube,188,7,6208,6,19,28,29,Evening,6,4,Boredom,Smartphone,iOS,,8,Commuting,Wi-Fi,50+,2,2
+33,Male,India,82154,False,Teacher,TikTok,255,10,1186,6,10,40,93,Morning,7,3,Boredom,Smartphone,Android,,9,At work,Wi-Fi,26-35,1,1
+47,Female,India,79711,True,Teacher,Instagram,280,13,8561,1,16,1,79,Afternoon,5,5,Boredom,Tablet,Android,,7,Commuting,Mobile Data,36-50,3,3
+18,Male,India,67945,True,Engineer,Facebook,81,3,1499,2,19,16,24,Night,3,7,Entertainment,Smartphone,Android,,5,At work,Wi-Fi,<18,5,5
+46,Male,India,28259,False,driver,Facebook,217,9,6048,6,12,37,45,Evening,6,4,Entertainment,Smartphone,Android,,8,At school,Wi-Fi,36-50,2,2
+35,Other,United States,59779,False,Waiting staff,YouTube,265,13,594,6,16,32,56,Night,8,2,Habit,Smartphone,Android,,10,At school,Mobile Data,26-35,0,0
+29,Male,Pakistan,41447,False,driver,TikTok,289,10,1091,2,19,41,49,Evening,6,4,Habit,Smartphone,Android,,8,At home,Mobile Data,26-35,2,2
+22,Other,Indonesia,98471,True,driver,TikTok,224,1,3030,9,17,28,72,Afternoon,3,7,Habit,Tablet,MacOS,,5,At home,Mobile Data,18-25,5,5
+28,Other,United States,35078,False,Students,YouTube,165,8,9813,6,4,47,91,Evening,6,4,Boredom,Smartphone,iOS,,8,At home,Mobile Data,26-35,2,2
+19,Female,Brazil,37069,False,Students,Facebook,28,11,5289,2,9,29,52,Evening,6,4,Habit,Smartphone,Windows,,8,At home,Mobile Data,18-25,2,2
+50,Male,United States,39539,False,driver,TikTok,253,14,9285,4,19,13,45,Night,2,8,Habit,Tablet,iOS,,4,At home,Wi-Fi,36-50,6,6
+38,Female,India,33975,False,Waiting staff,Facebook,49,3,8955,6,11,23,85,Evening,6,4,Habit,Smartphone,iOS,,8,At home,Mobile Data,36-50,2,2
+54,Male,India,89569,True,Manager,TikTok,116,17,5562,8,9,28,18,Morning,9,1,Boredom,Smartphone,Windows,,10,Commuting,Wi-Fi,50+,0,0
+55,Female,Brazil,32145,True,Waiting staff,YouTube,35,10,9088,7,22,34,68,Night,8,2,Habit,Smartphone,iOS,,10,At work,Mobile Data,50+,0,0
+28,Female,Philippines,70939,True,Waiting staff,TikTok,73,17,5161,8,24,4,73,Morning,8,2,Boredom,Smartphone,Android,,10,At home,Wi-Fi,26-35,0,0
+57,Female,India,91975,True,Students,YouTube,220,11,4599,3,26,13,75,Evening,7,3,Habit,Smartphone,Android,,9,At home,Wi-Fi,50+,1,1
+23,Male,Indonesia,91354,False,Students,YouTube,38,16,4270,5,3,35,69,Afternoon,8,2,Procrastination,Tablet,MacOS,,10,At school,Wi-Fi,18-25,0,0
+42,Female,Mexico,87990,True,Waiting staff,Instagram,73,7,6125,6,7,18,72,Night,3,7,Procrastination,Smartphone,iOS,,5,At home,Mobile Data,36-50,5,5
+27,Male,India,94218,True,Waiting staff,TikTok,165,1,9290,3,9,28,44,Night,9,1,Procrastination,Smartphone,iOS,,10,Commuting,Mobile Data,26-35,0,0
+30,Female,Brazil,22100,True,Labor/Worker,Facebook,264,16,6101,7,24,39,21,Morning,3,7,Habit,Tablet,Android,,5,At school,Mobile Data,26-35,5,5
+57,Male,United States,98707,True,driver,YouTube,144,8,7069,7,26,23,58,Night,3,7,Boredom,Smartphone,iOS,,5,At home,Wi-Fi,50+,5,5
+58,Other,Brazil,37438,True,Teacher,Facebook,213,7,7380,2,23,23,71,Evening,5,5,Habit,Smartphone,Android,,7,At home,Wi-Fi,50+,3,3
+40,Male,Japan,66571,False,Students,Instagram,292,5,8302,1,12,15,63,Evening,6,4,Boredom,Computer,iOS,,8,Commuting,Wi-Fi,36-50,2,2
+29,Male,Vietnam,97313,True,Students,Instagram,68,11,2474,8,14,17,91,Morning,9,1,Boredom,Smartphone,Windows,,10,At home,Mobile Data,26-35,0,0
+28,Male,India,85633,False,Engineer,Facebook,210,11,730,7,5,34,23,Night,3,7,Entertainment,Smartphone,Android,,5,At school,Wi-Fi,26-35,5,5
+25,Female,Germany,42190,False,Waiting staff,Instagram,150,9,6724,2,26,22,72,Afternoon,4,6,Entertainment,Smartphone,Android,,6,At home,Mobile Data,18-25,4,4
+49,Male,Vietnam,87628,False,Engineer,Instagram,213,18,9301,5,21,16,92,Night,8,2,Entertainment,Tablet,Android,,10,At school,Mobile Data,36-50,0,0
+32,Male,United States,91947,True,Students,Facebook,16,8,1164,4,28,46,4,Afternoon,5,5,Boredom,Smartphone,MacOS,,7,At home,Mobile Data,26-35,3,3
+20,Male,Philippines,89561,True,Manager,TikTok,288,14,4098,7,16,15,36,Evening,8,2,Boredom,Smartphone,Android,,10,At school,Mobile Data,18-25,0,0
+30,Other,India,61869,True,Labor/Worker,Instagram,177,9,3325,7,25,19,2,Evening,6,4,Boredom,Smartphone,Android,,8,At school,Mobile Data,26-35,2,2
+50,Male,Brazil,28472,False,Engineer,Facebook,132,10,6028,8,26,3,60,Afternoon,5,5,Habit,Smartphone,iOS,,7,At home,Mobile Data,36-50,3,3
+38,Male,India,99674,True,driver,Facebook,255,2,1111,9,23,10,80,Night,1,9,Procrastination,Smartphone,Android,,3,At school,Wi-Fi,36-50,7,7
+18,Female,India,45599,False,Waiting staff,YouTube,129,3,9552,4,15,12,19,Night,6,4,Procrastination,Tablet,Android,,8,At home,Wi-Fi,<18,2,2
+20,Other,Germany,71631,True,Manager,Instagram,273,8,2537,4,25,29,75,Afternoon,5,5,Habit,Tablet,Android,,7,At work,Mobile Data,18-25,3,3
+52,Other,Mexico,97362,False,Labor/Worker,YouTube,240,5,8090,6,5,49,36,Evening,5,5,Habit,Smartphone,MacOS,,7,At work,Mobile Data,50+,3,3
+22,Female,Pakistan,93869,True,Students,YouTube,33,13,7812,4,8,7,69,Evening,6,4,Habit,Smartphone,Android,,8,At home,Mobile Data,18-25,2,2
+45,Male,United States,44842,True,Labor/Worker,TikTok,186,7,3664,7,15,14,56,Night,1,9,Entertainment,Tablet,Android,,3,Commuting,Mobile Data,36-50,7,7
+36,Male,Germany,36715,True,Waiting staff,YouTube,31,1,6018,6,5,28,79,Night,2,8,Boredom,Tablet,Windows,,4,At home,Wi-Fi,36-50,6,6
+20,Male,India,47624,False,Students,Instagram,117,8,1161,9,27,45,87,Afternoon,5,5,Entertainment,Smartphone,Android,,7,At school,Mobile Data,18-25,3,3
+56,Female,United States,46762,False,Artist,TikTok,199,9,7541,9,4,29,40,Morning,7,3,Entertainment,Smartphone,Android,,9,At home,Mobile Data,50+,1,1
+22,Male,Mexico,77326,True,Artist,YouTube,229,8,1286,6,15,48,20,Evening,6,4,Entertainment,Computer,Android,,8,At home,Wi-Fi,18-25,2,2
+37,Male,Brazil,68781,True,Engineer,Instagram,233,9,7207,6,20,35,11,Night,3,7,Entertainment,Smartphone,iOS,,5,At home,Mobile Data,36-50,5,5
+50,Other,India,23866,True,Labor/Worker,Facebook,24,17,5122,2,10,39,61,Evening,8,2,Procrastination,Smartphone,MacOS,,10,At work,Mobile Data,36-50,0,0
+22,Male,Pakistan,63732,False,Manager,Instagram,48,15,4348,7,25,7,97,Evening,6,4,Boredom,Smartphone,Android,,8,At work,Wi-Fi,18-25,2,2
+40,Male,Brazil,58211,False,Manager,Instagram,118,14,8730,9,14,14,60,Night,2,8,Entertainment,Smartphone,Android,,4,At home,Wi-Fi,36-50,6,6
+34,Other,Brazil,42005,True,Students,TikTok,26,13,6116,1,26,29,73,Evening,3,7,Entertainment,Smartphone,iOS,,5,At home,Wi-Fi,26-35,5,5
+47,Female,Mexico,39337,True,Waiting staff,Instagram,138,6,4177,9,5,36,48,Morning,7,3,Procrastination,Tablet,Android,,9,At home,Mobile Data,36-50,1,1
+51,Male,United States,50750,True,Manager,YouTube,67,1,8992,4,12,27,47,Evening,3,7,Boredom,Smartphone,Windows,,5,At work,Mobile Data,50+,5,5
+45,Female,Mexico,29764,True,driver,TikTok,267,1,2049,1,25,12,66,Evening,3,7,Habit,Smartphone,iOS,,5,Commuting,Mobile Data,36-50,5,5
+50,Male,Mexico,72142,False,Manager,TikTok,58,7,1858,5,6,47,90,Afternoon,5,5,Entertainment,Smartphone,Windows,,7,At school,Wi-Fi,36-50,3,3
+51,Male,United States,49796,False,Labor/Worker,Instagram,285,9,8253,8,21,36,69,Afternoon,3,7,Habit,Smartphone,iOS,,5,At school,Mobile Data,50+,5,5
+22,Male,India,74254,True,Students,TikTok,144,7,5179,6,17,17,47,Afternoon,9,1,Procrastination,Smartphone,iOS,,10,At work,Mobile Data,18-25,0,0
+45,Male,Pakistan,22257,False,Waiting staff,Facebook,262,2,8649,1,27,31,2,Afternoon,8,2,Boredom,Tablet,MacOS,,10,At school,Mobile Data,36-50,0,0
+41,Female,United States,89184,False,Waiting staff,Facebook,91,19,7730,8,12,28,56,Afternoon,5,5,Entertainment,Tablet,Android,,7,At work,Mobile Data,36-50,3,3
+29,Female,India,68438,False,Labor/Worker,Instagram,38,4,9396,2,2,46,88,Night,2,8,Entertainment,Smartphone,iOS,,4,At home,Mobile Data,26-35,6,6
+37,Other,United States,81997,True,Artist,Instagram,131,4,4592,1,20,48,80,Afternoon,8,2,Entertainment,Smartphone,Windows,,10,At home,Mobile Data,36-50,0,0
+54,Male,Vietnam,75243,False,Labor/Worker,Instagram,96,1,8204,3,27,8,64,Night,9,1,Boredom,Tablet,Android,,10,At school,Mobile Data,50+,0,0
+35,Male,Pakistan,86418,True,Students,Instagram,250,5,3574,2,4,8,67,Morning,7,3,Entertainment,Tablet,Android,,9,At home,Mobile Data,26-35,1,1
+29,Male,Philippines,46423,True,driver,Facebook,158,16,5912,6,21,17,38,Evening,9,1,Boredom,Tablet,Android,,10,At school,Mobile Data,26-35,0,0
+19,Female,Brazil,36288,False,Students,TikTok,163,17,4179,9,11,31,37,Night,3,7,Habit,Smartphone,iOS,,5,Commuting,Mobile Data,18-25,5,5
+31,Male,United States,86707,True,Waiting staff,Facebook,205,5,1613,1,15,26,25,Afternoon,5,5,Habit,Smartphone,Android,,7,At home,Mobile Data,26-35,3,3
+37,Male,United States,70026,True,Students,YouTube,255,6,4970,8,4,9,26,Afternoon,5,5,Procrastination,Smartphone,iOS,,7,At home,Mobile Data,36-50,3,3
+19,Other,Germany,25498,True,Waiting staff,TikTok,53,3,6412,2,1,39,52,Morning,7,3,Entertainment,Smartphone,Android,,9,At school,Wi-Fi,18-25,1,1
+63,Male,Vietnam,35372,True,Students,YouTube,102,5,5476,7,25,34,24,Afternoon,8,2,Habit,Smartphone,iOS,,10,At work,Mobile Data,50+,0,0
+62,Male,India,48803,False,Students,Instagram,38,9,6702,6,11,40,78,Evening,6,4,Entertainment,Smartphone,iOS,,8,At school,Mobile Data,50+,2,2
+43,Male,Indonesia,30293,True,Students,TikTok,35,6,7161,7,15,17,62,Afternoon,6,4,Entertainment,Computer,Android,,8,At school,Mobile Data,36-50,2,2
+20,Male,Vietnam,56609,True,Waiting staff,Facebook,233,4,8096,9,19,4,6,Evening,6,4,Entertainment,Computer,iOS,,8,At home,Mobile Data,18-25,2,2
+47,Other,United States,71578,False,Artist,TikTok,60,11,703,5,20,13,21,Afternoon,5,5,Habit,Smartphone,Android,,7,At home,Mobile Data,36-50,3,3
+35,Male,India,27190,False,Students,TikTok,264,18,1379,4,19,48,27,Evening,3,7,Habit,Smartphone,Android,,5,At work,Mobile Data,26-35,5,5
+27,Other,Mexico,94763,False,Labor/Worker,YouTube,214,18,1033,6,27,21,79,Evening,3,7,Procrastination,Computer,Android,,5,At home,Mobile Data,26-35,5,5
+31,Female,Japan,88847,False,Manager,Facebook,297,17,2631,4,26,7,6,Afternoon,6,4,Boredom,Tablet,iOS,,8,At work,Mobile Data,26-35,2,2
+50,Female,Vietnam,37154,True,Waiting staff,TikTok,11,16,3188,1,18,15,50,Morning,9,1,Boredom,Tablet,Android,,10,At home,Wi-Fi,36-50,0,0
+39,Female,Mexico,33493,False,Waiting staff,Facebook,102,12,9795,5,18,15,48,Afternoon,5,5,Habit,Smartphone,iOS,,7,At home,Wi-Fi,36-50,3,3
+50,Other,India,22384,False,Cashier,YouTube,235,2,2666,6,26,42,29,Evening,5,5,Entertainment,Computer,Android,,7,At home,Mobile Data,36-50,3,3
+20,Male,Mexico,31390,True,Cashier,YouTube,291,17,4764,4,15,32,90,Evening,8,2,Boredom,Computer,iOS,,10,At work,Wi-Fi,18-25,0,0
+62,Female,India,82491,False,Labor/Worker,Facebook,292,19,6007,4,2,13,88,Night,3,7,Habit,Smartphone,Android,,5,At home,Mobile Data,50+,5,5
+54,Male,India,99025,True,driver,Facebook,76,3,2523,9,7,38,60,Night,3,7,Habit,Tablet,Android,,5,At home,Mobile Data,50+,5,5
+23,Female,United States,59129,True,Waiting staff,Facebook,298,8,9584,9,22,13,63,Evening,8,2,Entertainment,Smartphone,Android,,10,At home,Mobile Data,18-25,0,0
+45,Female,Vietnam,36994,False,Labor/Worker,TikTok,213,15,4121,2,5,3,58,Evening,6,4,Procrastination,Smartphone,Android,,8,At work,Mobile Data,36-50,2,2
+18,Female,India,98257,True,Students,TikTok,252,15,3597,1,26,14,10,Afternoon,6,4,Boredom,Smartphone,Android,,8,At home,Mobile Data,<18,2,2
+62,Male,Philippines,41038,False,Labor/Worker,Instagram,214,9,5546,6,13,21,51,Evening,6,4,Habit,Computer,Windows,,8,At school,Mobile Data,50+,2,2
+44,Male,Brazil,28556,False,driver,Facebook,55,11,9759,5,10,39,33,Afternoon,4,6,Habit,Tablet,MacOS,,6,At work,Mobile Data,36-50,4,4
+43,Female,United States,85333,False,Students,Instagram,252,11,3420,1,13,4,51,Evening,6,4,Boredom,Smartphone,Android,,8,At home,Mobile Data,36-50,2,2
+49,Female,Germany,29752,False,Students,Instagram,20,7,5212,6,7,20,32,Evening,6,4,Habit,Tablet,MacOS,,8,At home,Mobile Data,36-50,2,2
+21,Female,Mexico,91121,True,Engineer,TikTok,287,18,3280,9,6,20,16,Afternoon,8,2,Entertainment,Tablet,Android,,10,Commuting,Mobile Data,18-25,0,0
+59,Female,Brazil,36724,True,Artist,TikTok,33,11,2019,4,26,6,97,Night,3,7,Boredom,Smartphone,Android,,5,At school,Mobile Data,50+,5,5
+45,Male,India,64695,False,Students,Facebook,25,12,9771,9,11,31,63,Afternoon,4,6,Procrastination,Tablet,iOS,,6,At work,Mobile Data,36-50,4,4
+21,Male,Japan,46390,False,Cashier,Instagram,83,7,5172,5,17,27,17,Evening,6,4,Habit,Smartphone,iOS,,8,At school,Mobile Data,18-25,2,2
+62,Female,Vietnam,75690,False,Labor/Worker,Facebook,244,19,8712,1,25,5,94,Evening,5,5,Procrastination,Tablet,iOS,,7,At school,Wi-Fi,50+,3,3
+41,Male,India,36237,True,driver,TikTok,234,5,3126,6,28,25,53,Evening,6,4,Boredom,Smartphone,Android,,8,At home,Mobile Data,36-50,2,2
+22,Female,United States,84089,False,Labor/Worker,Instagram,10,4,8287,4,19,3,35,Afternoon,6,4,Procrastination,Tablet,iOS,,8,At home,Wi-Fi,18-25,2,2
+29,Female,Brazil,99190,True,Waiting staff,Instagram,295,4,3364,8,7,32,25,Evening,7,3,Habit,Smartphone,iOS,,9,At home,Wi-Fi,26-35,1,1
+52,Male,Philippines,87055,False,Teacher,TikTok,43,11,63,3,2,28,57,Night,3,7,Entertainment,Smartphone,iOS,,5,At home,Mobile Data,50+,5,5
+48,Female,United States,34849,False,Engineer,Facebook,158,2,1482,1,14,28,14,Night,3,7,Boredom,Computer,Android,,5,At home,Wi-Fi,36-50,5,5
+51,Male,United States,83878,False,driver,TikTok,168,12,3535,7,15,28,1,Evening,6,4,Habit,Smartphone,iOS,,8,At work,Wi-Fi,50+,2,2
+26,Other,India,74312,True,Artist,Facebook,217,18,2612,5,24,1,5,Evening,7,3,Boredom,Tablet,MacOS,,9,At school,Mobile Data,26-35,1,1
+46,Other,Mexico,64199,False,driver,TikTok,170,1,9957,8,6,34,83,Afternoon,6,4,Habit,Smartphone,Windows,,8,At school,Mobile Data,36-50,2,2
+62,Female,Brazil,44322,False,Teacher,TikTok,136,15,5803,5,18,10,51,Morning,8,2,Entertainment,Smartphone,Android,,10,Commuting,Mobile Data,50+,0,0
+60,Other,Indonesia,67377,False,Artist,YouTube,297,17,1217,7,8,19,15,Afternoon,6,4,Habit,Tablet,MacOS,,8,At work,Mobile Data,50+,2,2
+45,Female,Indonesia,26142,True,Cashier,Instagram,222,6,5420,8,24,31,36,Evening,5,5,Boredom,Computer,MacOS,,7,At home,Wi-Fi,36-50,3,3
+43,Female,Germany,78653,False,Students,YouTube,33,1,1469,8,9,33,81,Afternoon,4,6,Habit,Tablet,Android,,6,Commuting,Mobile Data,36-50,4,4
+61,Male,Philippines,88336,False,Waiting staff,TikTok,112,7,5807,1,21,27,86,Afternoon,5,5,Entertainment,Smartphone,Android,,7,At work,Mobile Data,50+,3,3
+63,Male,Brazil,85677,False,Waiting staff,Facebook,30,11,2538,1,22,40,85,Evening,6,4,Habit,Smartphone,Android,,8,At home,Wi-Fi,50+,2,2
+32,Male,India,75718,True,Students,Facebook,112,19,4960,7,26,5,89,Night,3,7,Boredom,Smartphone,iOS,,5,Commuting,Wi-Fi,26-35,5,5
+28,Male,Indonesia,76614,True,Manager,Instagram,14,15,6227,4,2,19,29,Afternoon,5,5,Boredom,Smartphone,Android,,7,At home,Mobile Data,26-35,3,3
+18,Male,Japan,98518,True,Labor/Worker,TikTok,225,16,1361,8,20,18,89,Morning,7,3,Procrastination,Smartphone,MacOS,,9,At work,Mobile Data,<18,1,1
+49,Male,Germany,90812,True,driver,Facebook,289,9,2423,6,4,27,53,Evening,8,2,Boredom,Tablet,Android,,10,At school,Wi-Fi,36-50,0,0
+41,Male,Brazil,51852,False,Manager,Facebook,22,12,4215,3,14,15,13,Night,3,7,Habit,Smartphone,MacOS,,5,At work,Wi-Fi,36-50,5,5
+51,Female,Vietnam,32449,True,Artist,Facebook,276,2,7089,8,23,10,30,Morning,3,7,Entertainment,Smartphone,iOS,,5,Commuting,Mobile Data,50+,5,5
+20,Other,United States,61627,False,Labor/Worker,TikTok,155,4,1032,2,1,30,93,Evening,6,4,Entertainment,Tablet,Android,,8,Commuting,Wi-Fi,18-25,2,2
+53,Male,Pakistan,32109,True,Waiting staff,Facebook,100,16,306,2,16,20,69,Morning,8,2,Boredom,Tablet,Android,,10,At work,Wi-Fi,50+,0,0
+50,Male,Philippines,66473,True,Teacher,Instagram,21,3,1561,6,14,2,10,Night,8,2,Procrastination,Tablet,Windows,,10,Commuting,Mobile Data,36-50,0,0
+50,Other,India,75426,True,Manager,YouTube,126,10,3339,1,14,18,24,Afternoon,5,5,Habit,Smartphone,Android,,7,At work,Wi-Fi,36-50,3,3
+34,Female,India,31738,True,Students,YouTube,146,11,70,8,19,3,7,Evening,7,3,Boredom,Smartphone,Android,,9,At school,Mobile Data,26-35,1,1
+53,Female,India,87411,False,Students,Facebook,137,1,5950,5,14,14,95,Night,2,8,Entertainment,Tablet,Android,,4,At home,Mobile Data,50+,6,6
+43,Female,United States,82522,True,Students,YouTube,57,11,5717,4,6,37,49,Night,8,2,Habit,Computer,Android,,10,At home,Mobile Data,36-50,0,0
+48,Female,Japan,90188,True,Waiting staff,YouTube,12,2,6391,7,9,18,3,Night,1,9,Boredom,Smartphone,Android,,3,At home,Wi-Fi,36-50,7,7
+44,Male,Indonesia,62946,False,Students,Instagram,280,7,6505,1,5,25,44,Night,3,7,Procrastination,Tablet,iOS,,5,At home,Mobile Data,36-50,5,5
+42,Female,Pakistan,48172,False,Waiting staff,Instagram,40,11,6349,1,14,39,39,Evening,9,1,Boredom,Tablet,Android,,10,At home,Mobile Data,36-50,0,0
+37,Other,United States,89785,True,Artist,TikTok,168,5,9630,4,14,9,11,Evening,6,4,Boredom,Smartphone,iOS,,8,At work,Mobile Data,36-50,2,2
+49,Female,United States,37611,False,Cashier,Instagram,21,7,5423,6,9,10,55,Afternoon,4,6,Boredom,Tablet,Windows,,6,At school,Wi-Fi,36-50,4,4
+22,Other,Mexico,46943,True,Students,YouTube,101,5,2256,5,5,31,94,Afternoon,4,6,Entertainment,Smartphone,Windows,,6,At home,Mobile Data,18-25,4,4
+62,Male,United States,20340,True,Waiting staff,TikTok,273,10,1849,1,23,37,49,Night,1,9,Entertainment,Tablet,Android,,3,At home,Wi-Fi,50+,7,7
+27,Female,India,98931,False,Labor/Worker,TikTok,178,19,1028,5,11,39,51,Morning,9,1,Procrastination,Smartphone,Windows,,10,Commuting,Wi-Fi,26-35,0,0
+34,Female,Pakistan,89624,True,Engineer,YouTube,93,8,8400,9,17,49,13,Afternoon,5,5,Habit,Computer,Android,,7,At work,Mobile Data,26-35,3,3
+18,Other,Indonesia,99473,True,Waiting staff,YouTube,271,10,972,5,24,36,62,Afternoon,5,5,Entertainment,Smartphone,iOS,,7,At home,Mobile Data,<18,3,3
+24,Male,India,27069,True,Students,Facebook,262,9,9814,4,6,31,10,Night,1,9,Habit,Smartphone,Windows,,3,At home,Mobile Data,18-25,7,7
+34,Male,Indonesia,32605,True,Teacher,TikTok,37,7,1646,3,4,40,45,Evening,6,4,Boredom,Computer,Android,,8,At work,Wi-Fi,26-35,2,2
+50,Other,Indonesia,83095,False,Waiting staff,TikTok,175,5,6994,8,29,20,40,Evening,6,4,Boredom,Tablet,iOS,,8,At school,Mobile Data,36-50,2,2
