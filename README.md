@@ -67,7 +67,7 @@ This project explores how different factors like time spent, platform used, and 
 **<img width="404" height="435" alt="10" src="https://github.com/user-attachments/assets/1edd3c53-88b6-4174-8eec-49bd973d9f8a" />**
 ## power BI dashboard Image/screenshot
 
-**<img width="1920" height="1036" alt="all" src="https://github.com/user-attachments/assets/9cb81210-6b9b-4b82-800c-ec54e6001ef6" />**
+**<img width="1920" height="1033" alt="all" src="https://github.com/user-attachments/assets/dbac0527-72b5-4d65-8269-ec2d6e968b39" />**
 
 ## ✅ Key Results
 - Top predictors:
