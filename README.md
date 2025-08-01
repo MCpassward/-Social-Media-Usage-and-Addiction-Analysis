@@ -10,9 +10,12 @@ This project explores how different factors like time spent, platform used, and 
 - Features: Age, Gender, Platform usage, Time spent, Satisfaction, Addiction Level, etc.
 
 ## 🛠️ Tools Used
-- 📒 Google Colab (Python for data processing and modeling)
-- 📊 Power BI (for dashboard visualization)
-- 📁 GitHub (for version control and collaboration)
+-  Python
+-  Pandas for data manipulation
+-  Matplotlib and Seaborn for data visualization
+-  Google Colab  for analysis and reporting
+-  Power BI for dashboard visualization
+-  GitHub for version control and collaboration
 
 ## 🔍 Methodology
 - Data cleaning and exploration using Google Colab
