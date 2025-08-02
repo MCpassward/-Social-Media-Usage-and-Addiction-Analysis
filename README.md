@@ -12,7 +12,7 @@ This project explores how different factors like time spent, platform used, and 
 | Feature                      | Description                                                 |
 | ---------------------------- | ----------------------------------------------------------- |
 | **Age**                      | Respondent's age in years                                   |
-| **Gender**                   | Gender identity (e.g., Male, Female)                        |
+| **Gender**                   | Gender identity ( Male, Female,Other)                        |
 | **Location**                 | Geographic location of the respondent                       |
 | **Income**                   | Monthly or annual income bracket                            |
 | **Owns Property**            | Whether the respondent owns property (Yes/No)               |
