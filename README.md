@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 This project explores how different factors like time spent, platform used, and user satisfaction contribute to social media addiction. Using a public dataset and big data techniques, we aim to analyze behavior and build a model to predict addiction levels.
-## Project Objective
+##  🎯Project Objective
 
 Main Goal:
 To assess how social media usage patterns influence user productivity using data analytics techniques.
@@ -82,7 +82,7 @@ Recommend actionable solutions to mitigate negative effects.
 
 **<img width="1920" height="1033" alt="all" src="https://github.com/user-attachments/assets/dbac0527-72b5-4d65-8269-ec2d6e968b39" />**
 
-## ✅ Key Results
+## 🧩 Key Results
 - Top predictors:
 
 
