@@ -88,9 +88,9 @@ This project explores how different factors like time spent, platform used, and 
 - `/colab_notebook`: Google Colab .ipynb files
 - `/Powerbi`: Dashboard file (.pbix)
 - `/visuals`: Screenshots from Power BI
-- `/reports`: PowerPoint summary slides
+
 
 ## 👤 Author
 MURENZI Charles  
-INSY 8413 | Big Data Analytics Capstone Project  
+Big Data Analytics Capstone Project  
 August 2025
