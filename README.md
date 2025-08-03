@@ -4,6 +4,19 @@
 
 ## 📌 Project Overview
 This project explores how different factors like time spent, platform used, and user satisfaction contribute to social media addiction. Using a public dataset and big data techniques, we aim to analyze behavior and build a model to predict addiction levels.
+## Project Objective
+
+Main Goal:
+To assess how social media usage patterns influence user productivity using data analytics techniques.
+
+Specific Objectives:
+
+Identify key behavioral factors linked to productivity loss.
+Analyze platform usage and time-related metrics.
+Predict productivity impact using machine learning models.
+Recommend actionable solutions to mitigate negative effects.
+
+
 
 ## 📊 Dataset
 - Source: [Here](https://github.com/haneesha-thasni/Time-wasters-on-social-media-Analysis/blob/main/Time-Wasters%20on%20Social%20Media.csv)
